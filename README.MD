@@ -6,7 +6,7 @@
 </blockquote>
 
 <h3>Example usage:</h3>
-<code>https:// request-header-parser-321/api/whoami</code>
+<code>https://request-header-parser-321.herokuapp.com/api/whoami</code>
 <br>
 <h3>Example output:</h3>
 <code>
